@@ -1,13 +1,16 @@
 .container {
-   display: flex;
- flex-direction: column;
- height: 100vh;
- width: 100%;
- justify-content: flex-center;
- align-items: flex-center;
+  display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background: #5040a1;
+    text-align: center;
 }
 
 h1 {
  font-sze: 24px;
- font-weight: bold
+ font-weight: bold;
+   color: #fff;
 }
